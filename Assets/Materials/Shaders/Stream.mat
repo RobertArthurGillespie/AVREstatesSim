@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stream
+  m_Shader: {fileID: -6465566751694194690, guid: 1bf965406603b824eac2b5b8f0da33c1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2488519E:
+        m_Texture: {fileID: 2800000, guid: 9aab419fc03c30f4d95a5547a21ceca9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_67577D2A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_90A21F7A:
+        m_Texture: {fileID: 2800000, guid: 3fa956f919b3a4348a36d7f32e7b32ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DF6033FF:
+        m_Texture: {fileID: 2800000, guid: e271e57090b10fa40bf0274f55f2c034, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_c8e8cf30e88844feaf4b434433802837_Cube_1:
+        m_Texture: {fileID: 8900000, guid: bc48b182cc199f6488e2451d9d0be39e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_3D4EDD51: 0.1
+    - Vector1_67604F50: 1
+    - Vector1_9BAB3A9E: 0.1
+    - Vector1_B0707BDD: 1
+    m_Colors:
+    - Color_6B1126F4: {r: 0.49019608, g: 0.39607844, b: 0.2784314, a: 0.9019608}
+    - Tiling: {r: 8, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
